@@ -1,0 +1,42 @@
+
+<enemics>
+  <enemic>
+    <nom>Manuel</nom>
+    <vida>10</vida>
+    <atac>10</atac>
+    <defensa>10</defensa>
+    <freq>3</freq>
+  </enemic>
+  
+  <enemic>
+    <nom>Lucia</nom>
+    <vida>12</vida>
+    <atac>8</atac>
+    <defensa>9</defensa>
+    <freq>2</freq>
+  </enemic>
+  
+  <enemic>
+    <nom>Ragnar</nom>
+    <vida>20</vida>
+    <atac>15</atac>
+    <defensa>10</defensa>
+    <freq>1.5</freq>
+  </enemic>
+  
+  <enemic>
+    <nom>Zara</nom>
+    <vida>8</vida>
+    <atac>12</atac>
+    <defensa>5</defensa>
+    <freq>4</freq>
+  </enemic>
+  
+  <enemic>
+    <nom>Orion</nom>
+    <vida>18</vida>
+    <atac>11</atac>
+    <defensa>7</defensa>
+    <freq>2.5</freq>
+  </enemic>
+</enemics>
